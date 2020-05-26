@@ -11,3 +11,5 @@ public class MicroservicesPracticalImplementationApplication {
 	}
 
 }
+
+// application moved to new project refer rental car application
